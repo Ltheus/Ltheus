@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheus!
 Theus for short!<br>
-👩🏻‍💻 System analysis student at FIAP<br>🎮 Video-game lover<br>💼 I'm open for working with a company or freelance jobs!<br>💭 Currently learning about UI/UX Design!
+👩🏻‍💻 System analysis student at FIAP<br>🎮 Video-game lover<br>💼 I'm open for working with a company or freelance jobs!<br>💭 Currently learning about UI/UX Design and ReactJS!
 
 
 ## 🌐 Socials:
