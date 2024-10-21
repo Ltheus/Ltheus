@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheus!
 Theus for short!<br>
-👩🏻‍💻 System analysis student at FIAP<br>🎮 Video-game lover<br>💼 I'm open for working with a company or freelance jobs!<br>💭 Currently learning Angular!
+👩🏻‍💻 System analysis student at FIAP<br>🎮 Video-game lover<br>💼 I'm open for working with a company or freelance jobs!<br>💭 Currently learning ReactJS and Front-end Development!
 
 
 ## 🌐 Socials:
@@ -15,5 +15,3 @@ Theus for short!<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ltheus&icon=2&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
